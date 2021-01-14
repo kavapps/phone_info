@@ -76,7 +76,6 @@ add the dependency
 <li>getSimState()
 </ul>getProcessorInfo()
 <ul><li>getName()
-<li>getCountKernel()
-</ul></code></pre></ul>
+<li>getCountKernel()</ul></code></pre></ul>
   
 
