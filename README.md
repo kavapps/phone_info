@@ -77,7 +77,6 @@ add the dependency
 </ul>getProcessorInfo()
 <ul><li>getName()
 <li>getCountKernel()
-</ul></code></pre>
-</ul>
+</ul></code></pre></ul>
   
 
