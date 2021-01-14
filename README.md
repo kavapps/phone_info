@@ -47,14 +47,16 @@ add the dependency
 getRamInfo()
 <ul><li>getTotalRam()
 <li>getFreeRam()
-</ul>getDisplayInfo()
+</ul>
+getDisplayInfo()
 <ul><li>getDensityDpi()
 <li>getHeightPixels()
 <li>getWidthPixelsPixels()
 <li>getScaledDensity()
 <li>getXdpi()
 <li>getYdpi()
-</ul>getBatteryInfo()
+</ul>
+getBatteryInfo()
 <ul><li>getCapacity()
 <li>getChargingInPercent()
 <li>getHealth()
@@ -63,7 +65,8 @@ getRamInfo()
 <li>getTemperature()
 <li>getVoltage()
 <li>getCapacity()
-</ul>getSimInfo()
+</ul>
+getSimInfo()
 <ul><li>getCallState()
 <li>getDataActivity()
 <li>getDataState()
@@ -75,7 +78,8 @@ getRamInfo()
 <li>isNetworkRoaming()
 <li>getCallState()
 <li>getSimState()
-</ul>getProcessorInfo()
+</ul>
+getProcessorInfo()
 <ul><li>getName()<li>getCountKernel()</ul></code></pre></ul></ul>
   
 
