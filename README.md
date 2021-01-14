@@ -74,9 +74,10 @@ add the dependency
 <li>isNetworkRoaming()
 <li>getCallState()
 <li>getSimState()
-</ul>
-
-</code></pre>
+</ul>getProcessorInfo()
+<ul><li>getName()
+<li>getCountKernel()
+</ul></code></pre>
 </ul>
   
 
