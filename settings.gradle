@@ -1,0 +1,3 @@
+include ':phoneInfo'
+include ':app'
+rootProject.name = "PhoneInfoLibrary"
