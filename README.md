@@ -26,9 +26,8 @@ add the dependency
 }
 </code></pre>
 </li>
-<li><a href="https://jitpack.io/#amir5121/arcView/" rel="nofollow">More ways to add it</a></li>
+<li><a href="https://jitpack.io/#kavapps/phone_info/" rel="nofollow">More ways to add it</a></li>
 </ul>
 
-<code>
   
 
