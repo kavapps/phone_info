@@ -2,6 +2,7 @@
 
 <code>
 allprojects {
+	<p>
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
