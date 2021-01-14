@@ -51,7 +51,6 @@ getBaseInfo()
 <li>getModel()
 <li>getSdkVersion()
 </ul>
-
 getRamInfo()
 <ul>
 <li>getTotalRam()
