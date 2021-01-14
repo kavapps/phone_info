@@ -46,6 +46,22 @@ add the dependency
 </ul>getRamInfo()
 <ul><li>getTotalRam()
 <li>getFreeRam()
+</ul>getDisplayInfo()
+<ul><li>getDensityDpi()
+<li>getHeightPixels()
+<li>getWidthPixelsPixels()
+<li>getScaledDensity()
+<li>getXdpi()
+<li>getYdpi()
+</ul>getBatteryInfo()
+<ul><li>getCapacity()
+<li>getChargingInPercent()
+<li>getHealth()
+<li>getStatus()
+<li>getTechnology()
+<li>getTemperature()
+<li>getVoltage()
+<li>getCapacity()
 </ul>
 
 </code></pre>
