@@ -2,13 +2,14 @@
 
 <code>
 allprojects {
-	<p>
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
   </code>
+  
+  
   
   dependencies {
 	        implementation 'com.github.kavapps:phone_info:v1.0.0'
