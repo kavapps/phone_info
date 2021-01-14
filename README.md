@@ -42,9 +42,20 @@ PhoneInfo phoneInfo = new PhoneInfo(this);
 
 <ul>
 <pre><code>
-phoneInfo.getBaseInfo()
+getBaseInfo()
 <ul>
 <li>getBrand()
+<li>getAndroidVersion()
+<li>getIncrementalVersion()
+<li>getManufacturer()
+<li>getModel()
+<li>getSdkVersion()
+</ul>
+
+getRamInfo()
+<ul>
+<li>getTotalRam()
+<li>getFreeRam()
 </ul>
 </code></pre>
 </ul>
