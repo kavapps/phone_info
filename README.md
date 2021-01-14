@@ -75,7 +75,6 @@ add the dependency
 <li>getCallState()
 <li>getSimState()
 </ul>getProcessorInfo()
-<ul><li>getName()
-<li>getCountKernel()</ul></code></pre></ul>
+<ul><li>getName()<li>getCountKernel()</ul></code></pre></ul>
   
 
