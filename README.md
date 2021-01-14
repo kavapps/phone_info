@@ -62,6 +62,18 @@ add the dependency
 <li>getTemperature()
 <li>getVoltage()
 <li>getCapacity()
+</ul>getSimInfo()
+<ul><li>getCallState()
+<li>getDataActivity()
+<li>getDataState()
+<li>getNetworkCountryIso()
+<li>getNetworkOperatorName()
+<li>getPhoneType()
+<li>getSimOperator()
+<li>getSimOperatorName()
+<li>isNetworkRoaming()
+<li>getCallState()
+<li>getSimState()
 </ul>
 
 </code></pre>
