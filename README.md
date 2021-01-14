@@ -43,7 +43,8 @@ add the dependency
 <li>getManufacturer()
 <li>getModel()
 <li>getSdkVersion()
-</ul>getRamInfo()
+</ul>
+getRamInfo()
 <ul><li>getTotalRam()
 <li>getFreeRam()
 </ul>getDisplayInfo()
