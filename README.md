@@ -43,7 +43,9 @@ PhoneInfo phoneInfo = new PhoneInfo(this);
 <ul>
 <pre><code>
 phoneInfo.getBaseInfo()
+<ul>
 <li>getBrand()
+</ul>
 </code></pre>
 </ul>
   
